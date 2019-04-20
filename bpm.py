@@ -65,20 +65,6 @@ def auto_listen(driver,i):
     while True:
         open(driver,i)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     i=0
     driver = open_webapp()
