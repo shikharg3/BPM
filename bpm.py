@@ -71,5 +71,5 @@ if __name__ == '__main__':
     print 'waiting for a keypress'
     while True:
         if keyboard.is_pressed('space'):
-            print 'space pressed, starting sniper'
+            print 'space pressed, starting BPM'
             auto_listen(driver,i)
