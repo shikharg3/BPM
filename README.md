@@ -36,10 +36,10 @@ We need pip to install the libraries used.
 2. Open terminal (goto where get-pip.py is located) and type following command ```python get-pip.py```
 
 ### Install Libraries
-Once pip is installed, open terminal, cd to the folder where requirements.txt is located and type (in terminal) ```pip install -r requirements.txt```
+Once pip is installed, open terminal, cd to the folder where requirements.txt is located and type (in terminal) ```sudo pip install -r requirements.txt```
 
 # Using the script
-1. Open cmd/terminal in your project directory and type ```python bpm.py```
+1. Open cmd/terminal in your project directory and type ```sudo python bpm.py```
 2. A chrome window will open and the webapp will load. Login to the webapp and go to the packs section.
 3. Now press 'space bar' and the script will start ripping open bronze packs.
 4. To stop the script, press ctrl+c or ctrl+z in cmd/terminal. Or close the terminal/cmd window.
