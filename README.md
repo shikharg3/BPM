@@ -1,5 +1,5 @@
 # Auto BPM
-This tiny script opens bronze packs automatically, until you stop it.
+This tiny script opens bronze packs automatically, until you stop it. Support [twitter](https://twitter.com/shikhargupta10)
 
 # NOTE
 I created this script only for myself. This was not intended to be released to the public. There ~~might~~ *will* be bugs. This script has only been tested on Mac OSX.
@@ -45,5 +45,5 @@ Once pip is installed, open terminal, cd to the folder where requirements.txt is
 4. To stop the script, press ctrl+c or ctrl+z in cmd/terminal. Or close the terminal/cmd window.
 
 # Known Bugs
-1. Sometimes free packs are not redeemed. In this case you need to manually click on 'redeem'
+1. Sometimes free packs are not redeemed. In this case you need to manually click on 'redeem'.
 
