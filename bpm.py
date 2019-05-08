@@ -24,7 +24,7 @@ def open_webapp():
 def open(driver,i):
     while True:
         try:
-            if 'BRONZE' in driver.find_elements_by_xpath('//a[@class="tab-menu-item"]')[2].text:
+            if 'BRONZE' in driver.find_element_by_xpath('//*[@id="StoreHub"]/div[1]/div/a[5]').text:
                 i+=1
                 #print 'Pack #' + str(i)
                 keyboard.press_and_release('b')
